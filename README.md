@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @Nah-GDS
 - 👀 I’m interested in learn about regression, language natural and all that envolve about Data Science
+- I works with implementations in ServiceNow platform using low-code, hard-code, Javascript, HTML, CSS
 - 🌱 I’m currently learning Python, R, Rl, MongoDB
 - 💞️ I’m looking to collaborate on basics projects with R and Python
 
